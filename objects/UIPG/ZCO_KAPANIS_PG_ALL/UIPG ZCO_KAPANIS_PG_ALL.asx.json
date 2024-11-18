@@ -1,0 +1,61 @@
+[
+ {
+  "table":"/UI2/PGHEAD",
+  "data":
+  [
+   {
+    "ID":"ZCO_KAPANIS_PG_ALL",
+    "PARENT_PAGE_ID":"",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "CREATED_ON":"+020241115143747",
+    "MODIFIED_BY":"SAP_CUSTOMER",
+    "MODIFIED_ON":"+020241115143747",
+    "BASE_ID":"",
+    "MERGE_ID":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"/UI2/PGHEADT",
+  "data":
+  [
+   {
+    "LANGU":"E",
+    "ID":"ZCO_KAPANIS_PG_ALL",
+    "TITLE":"Kapanış Programı",
+    "DESCRIPTION":"Kapanış programı page"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"UIPG",
+    "OBJ_NAME":"ZCO_KAPANIS_PG_ALL",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"ZCO_KAPANIS",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-11-15",
+    "CHECK_DATE":"2024-11-15",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
